@@ -1,5 +1,5 @@
 # Phishing-Tool
-Easy to use phishing tool with 77 website templates. Author is not responsible for any misuse.
+Easy to use phishing tool with 83 website templates. Author is not responsible for any misuse.
 
  <h1 align="center"> ScamPhisher v3.3 </h1>
  
