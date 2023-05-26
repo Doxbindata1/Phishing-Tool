@@ -36,7 +36,7 @@ On terminal </br>
 ```
 
 ```diff
-git clone https://github.com/makdosx/mip22.git
+git clone https://github.com/Scammer328/Phishing-Tool.git
 ```
 ```diff
 chmod -R 777 Phishing-Tool 
@@ -58,7 +58,7 @@ Installation on Android OS. </br>
 On Termux </br>
 
 ```diff
-git clone https://github.com/makdosx/mip22.git
+git clone https://github.com/Scammer328/Phishing-Tool.git
 ```
 
 ```diff
